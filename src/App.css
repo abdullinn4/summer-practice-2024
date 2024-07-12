@@ -1,0 +1,24 @@
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.tree {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.tree-node {
+  margin: 5px 0;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.indeterminate {
+  color: rgb(128, 128, 128);
+}
